@@ -1,4 +1,4 @@
-## Hi there 👋 This is Ricardo Lu
+## Hi there 👋 This is Lu
 
 🔭 I’m currently working on large language models (LLMs), vision-language models (VLMs), and agents.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiayylu/jiayylu/output/github-contribution-grid-snake-dark.svg">
